@@ -2,7 +2,7 @@ export const personalData = {
   name: "Lawrence Eagles",
   profile: "/profile.png",
   designation: "Software Developer",
-  designation2: "Tech Writer",
+  designation2: "Technical Writer",
   description:
     "Hello, I am Lawrence Eagles --- a skilled Software developer with hands-on experience building responsive and secure web applications using React Native, React.js, Redux Tookit, Node.js, Express.js, TypeScript, and modern JavaScript (ES6+). Strong understanding of component-based architecture, RESTful APIs design, and state management. Collaborative team player committed to performance, code quality and best practices.",
   email: "codewitheagles247@gmail.com",
