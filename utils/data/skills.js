@@ -12,7 +12,7 @@ export const skillsData = [
   "Graphql",
   "MongoDB",
   "Git",
-  "Bootstrap",
+  "PostgreSQL",
   "Docker",
   "Firebase",
   "Wordpress",
